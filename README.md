@@ -14,7 +14,7 @@ A simple and responsive Task Manager built using **HTML, CSS, and JavaScript**. 
 <img width="960" alt="Screenshot 1" src="https://github.com/user-attachments/assets/76d62733-d291-4da3-b648-a8a86670cc08" />
 <img width="302" alt="Screenshot 2" src="https://github.com/user-attachments/assets/a47d99f7-42be-40c0-b82d-2415c57d3b23" />
 <img width="290" alt="Screenshot 3" src="https://github.com/user-attachments/assets/f921fc0e-6c85-4d5c-9d8f-286a3443815b" />
-
+<img width="575" alt="Screenshot 4" src="https://github.com/user-attachments/assets/90832960-20b6-4148-8a9a-c7829cdd4ba2" />
 ## 🛠️ Technologies Used
 
 - **HTML** → Structure of the app  
@@ -39,4 +39,5 @@ A simple and responsive Task Manager built using **HTML, CSS, and JavaScript**. 
 ## 📜 License
 
 This project is open-source and free to use. Feel free to contribute! 🚀
+
 
